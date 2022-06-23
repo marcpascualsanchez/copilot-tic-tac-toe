@@ -1,2 +1,2 @@
 "use strict";
-console.log('Hello world!');
+setInterval(function () { return console.log('Hello world!'); }, 1000);
